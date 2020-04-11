@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d72892c8-d5cb-49f1-b0f0-ffe1d2e6dea2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aA9QCvzl6bZRyhTzXpnF6plUZv" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/kye/case1" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.kye.config" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.kye.case1" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\api\KyeInterfaceautoJava\src\main\java\com\kye\case1" />
+      <recent name="D:\api\KyeInterfaceautoJava\src\main\java\com\kye\config" />
+      <recent name="D:\api\KyeInterfaceautoJava\src\main\java\com\kye\common" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.HttpSSLClientDemo2">
+    <configuration name="HttpSSLClientDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kye.case1.HttpSSLClientDemo" />
+      <module name="KyeInterfaceautoJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HttpSSLClientDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kye.case1.HttpSSLClientDemo2" />
+      <module name="KyeInterfaceautoJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kye.case1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Login" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kye.common.Login" />
+      <module name="KyeInterfaceautoJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kye.common.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Xue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kye.case1.Xue" />
+      <module name="KyeInterfaceautoJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Login.posttest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="KyeInterfaceautoJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kye.common.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.kye.common" />
+      <option name="MAIN_CLASS_NAME" value="com.kye.common.Login" />
+      <option name="METHOD_NAME" value="posttest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HttpSSLClientDemo2" />
+        <item itemvalue="Application.Login" />
+        <item itemvalue="TestNG.Login.posttest" />
+        <item itemvalue="Application.HttpSSLClientDemo" />
+        <item itemvalue="Application.Xue" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d72892c8-d5cb-49f1-b0f0-ffe1d2e6dea2" name="Default Changelist" comment="" />
+      <created>1586167512600</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586167512600</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="73" key="#Project_Structure" timestamp="1586512630391">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="73" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1586512630391" />
+    <state x="574" y="131" key="#com.intellij.ide.util.MemberChooser" timestamp="1586430514306">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="131" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1586430514306" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1586591228650">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586591228650" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1586591228650">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586591228650" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1586591228650">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586591228650" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1586591228650">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586591228650" />
+    <state x="299" y="70" key="Maven.ArtifactSearchDialog" timestamp="1586487832428">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="299" y="70" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1586487832428" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1586487108392">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1586487108392" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1586487630999">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1536.824@0.0.1536.824" timestamp="1586487630999" />
+  </component>
+</project>

@@ -1,0 +1,4 @@
+11:35:17.931 TRACE com.kye.case1.Xue 9 main - log4j2日志输出：This is trace message.
+11:35:17.932 DEBUG com.kye.case1.Xue 11 main - log4j2日志输出：This is debug message.
+11:35:17.932 INFO  com.kye.case1.Xue 13 main - log4j2日志输出：This is info message.
+11:35:17.932 ERROR com.kye.case1.Xue 15 main - log4j2日志输出：This is error message.
