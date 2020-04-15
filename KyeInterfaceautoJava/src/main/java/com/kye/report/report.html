@@ -1,5 +1,6 @@
 <html>
 <head>
+    <marquee>滚动的文字</marquee>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>测试报告</title>
@@ -6983,12 +6984,18 @@
                 </div>
                 <div class="ibox-content">
                     <div class="row">
-                        <div class="col-sm-6 b-r" style="height:350px">
+                        <div class="col-sm-6 b-r" style="height:500px">
                             <form class="form-horizontal">
                                 <div class="form-group">
                                     <label class="col-sm-2 control-label text-navy">用例名称:</label>
                                     <div class="col-sm-5">
                                         <span class="form-control" id="testName"></span>
+                                    </div>
+                                </div>
+			                    <div class="form-group">
+                                    <label class="col-sm-2 control-label text-navy">总数:</label>
+                                    <div class="col-sm-5">
+                                        <span class="form-control" id="hostnameaddress"></span>
                                     </div>
                                 </div>
                                 <div class="form-group">
@@ -7130,9 +7137,9 @@
     var resultData = {
   "testPass": 2,
   "testSkip": 1,
-  "totalTime": "24ms",
+  "totalTime": "17ms",
   "testAll": 5,
-  "beginTime": "2020-04-10 11:31:25.712",
+  "beginTime": "2020-04-15 20:11:12.491",
   "testResult": [
     {
       "className": "com.kye.case1.TestDemo1",
@@ -7174,7 +7181,7 @@
       "className": "com.kye.case1.TestDemo1",
       "methodName": "testDemo1",
       "description": "测试DEMO1",
-      "spendTime": "20ms",
+      "spendTime": "14ms",
       "status": "成功",
       "log": [
         "this is demo!"
@@ -7184,7 +7191,7 @@
       "className": "com.kye.case1.TestDemo1",
       "methodName": "testDemo2",
       "description": "测试DEMO2",
-      "spendTime": "2ms",
+      "spendTime": "1ms",
       "status": "成功",
       "log": [
         "this is demo!"
@@ -7309,7 +7316,7 @@
     }
   ],
   "testFail": 2,
-  "testName": "20200410113125681"
+  "testName": "20200415201112456"
 };
 
     function clickRow(obj){
@@ -7349,6 +7356,7 @@
         $("#filterOk").text(resultData["testPass"]);
         $("#filterFail").text(resultData["testFail"]);
         $("#filterSkip").text(resultData["testSkip"]);
+		$("#hostnameaddress").text(resultData["hostnameaddress"]);
         var classNames = [];
         var results = [];
         $.each(resultData["testResult"], function (i, n) {
@@ -7427,7 +7435,7 @@
         function pie() {
             var option = {
                 title: {
-                    text: '测试用例运行结果',
+                    text: '测试用��运行结果',
                     subtext: '',
                     x: 'center'
                 },

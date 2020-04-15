@@ -4,7 +4,7 @@ import java.security.Key;
 
 import javax.crypto.Cipher;
 
-public class EncrypDES {
+public class EncryDecryption {
     // 字符串默认键值
     private static String strDefaultKey = "inventec2020@#$%^&";
     //加密工具
@@ -14,7 +14,7 @@ public class EncrypDES {
     /**
      * 默认构造方法，使用默认密钥
      */
-    public EncrypDES() throws Exception {
+    public EncryDecryption() throws Exception {
         this(strDefaultKey);
     }
     /**
@@ -22,7 +22,7 @@ public class EncrypDES {
      * @param strKey 指定的密钥
      * @throws Exception
      */
-    public EncrypDES(String strKey) throws Exception {
+    public EncryDecryption(String strKey) throws Exception {
         // Security.addProvider(new com.sun.crypto.provider.SunJCE());
         Key key = getKey(strKey.getBytes());
         encryptCipher = Cipher.getInstance("DES");
@@ -127,7 +127,7 @@ public class EncrypDES {
         try {
             String msg1 = "{\"password\":\"UfXY0Jp0bo+1AA+kXrgarIKO8Kpt4PBi/7o+6kZ6GeRt76xlUko4v2BpRMUiLEZaGcYPT9cVPBPTsy5gCOKDYRgeOvP//qjUUIbEQ+HBJbHfwJBN4CUVdggQgUOslhr6h6BzP6xrON3h5lHzTZKYqXoOwQGS1k5ez0u77Yh7WeI\\u003d\",\"temp_device\":\"false\",\"device_id\":\"ffffffff-e3a2-658c-0000-0000463f2bf8\",\"device_ip\":\"10.32.73.204\",\"encryption\":\"true\",\"device_model\":\"HLTE200T\",\"app_id\":\"tVEkqtdCfN_wiu180fQ0Hg\\u003d\\u003d\",\"account\":\"581424\",\"device_brand\":\"Hisense\",\"grant_type\":\"password\"}";
 
-            EncrypDES des1 = new EncrypDES();// 使用默认密钥
+            EncryDecryption des1 = new EncryDecryption();// 使用默认密钥
 
             System.out.println("加密前的字符：" + msg1);
 
@@ -142,7 +142,7 @@ public class EncrypDES {
 //
 //            String key =  "2020@#$2020";
 //
-//            EncrypDES des2 = new EncrypDES(key);// 自定义密钥
+//            EncryDecryption des2 = new EncryDecryption(key);// 自定义密钥
 //
 //            System.out.println("加密前的字符：" + msg2);
 //
