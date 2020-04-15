@@ -161,7 +161,7 @@ public class ZTestReport implements IReporter {
 			result.put("beginTime", beginTime);
 			result.put("totalTime", totalTime+"ms");
 			result.put("testResult", listInfo);
-			result.put("hostnameaddress", hostnameaddress);
+			result.put("hostnameaddress", "xuegonghou");
 			Gson gson = new GsonBuilder().disableHtmlEscaping().setPrettyPrinting().create();
 			String template = this.read(templatePath);
 			BufferedWriter output = new BufferedWriter( new OutputStreamWriter(new FileOutputStream(new File(path)),"UTF-8"));

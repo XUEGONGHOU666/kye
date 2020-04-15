@@ -6992,6 +6992,17 @@
                                         <span class="form-control" id="testName"></span>
                                     </div>
                                 </div>
+								
+								
+								<div class="form-group">
+                                    <label class="col-sm-2 control-label text-navy">名称:</label>
+                                    <div class="col-sm-5">
+                                        <span class="form-control" id="hostnameaddress"></span>
+                                    </div>
+                                </div>
+								
+								
+								
                                 <div class="form-group">
                                     <label class="col-sm-2 control-label text-navy">用例总数:</label>
                                     <div class="col-sm-5">

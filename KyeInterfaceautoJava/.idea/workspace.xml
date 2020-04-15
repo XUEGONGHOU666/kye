@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d72892c8-d5cb-49f1-b0f0-ffe1d2e6dea2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/kye/util/ComputerInfo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/kye/case1/HttpSSLClientDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kye/case1/HttpSSLClientDemo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/kye/common/template" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kye/common/template" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/kye/config/ZTestReport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kye/config/ZTestReport.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/kye/report/report.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kye/report/report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/kye/util/EncrypDES.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kye/util/EncryDecryption.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/kye/case1/HttpSSLClientDemo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/kye/case1/HttpSSLClientDemo2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/kye/config/ZTestReport$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/kye/config/ZTestReport$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/kye/config/ZTestReport$ReportInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/kye/config/ZTestReport$ReportInfo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/kye/config/ZTestReport.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/kye/config/ZTestReport.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/kye/util/EncrypDES.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -173,22 +163,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1586836649562" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1586952671292">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1586955467217">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586952671292" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1586952671292">
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586955467217" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1586955467217">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586952671292" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1586952671292">
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586955467217" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1586955467217">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586952671292" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1586952671292">
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586955467217" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1586955467217">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586952671292" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586955467217" />
     <state x="299" y="70" key="Maven.ArtifactSearchDialog" timestamp="1586782533271">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
