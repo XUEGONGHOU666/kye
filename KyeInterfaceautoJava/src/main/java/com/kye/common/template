@@ -1,6 +1,5 @@
 <html>
 <head>
-    <marquee>滚动的文字</marquee>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>测试报告</title>
@@ -6962,6 +6961,7 @@
     </style>
 </head>
 <body class="gray-bg">
+<marquee> <span id="hostnameaddress"></span></marquee>
 <div class="row  border-bottom white-bg dashboard-header">
     <div class="col-sm-12 text-center">
         <span style="color: #1ab394; font-size: 20px; font-weight: 700">测试报告</span>
@@ -6992,17 +6992,6 @@
                                         <span class="form-control" id="testName"></span>
                                     </div>
                                 </div>
-								
-								
-								<div class="form-group">
-                                    <label class="col-sm-2 control-label text-navy">名称:</label>
-                                    <div class="col-sm-5">
-                                        <span class="form-control" id="hostnameaddress"></span>
-                                    </div>
-                                </div>
-								
-								
-								
                                 <div class="form-group">
                                     <label class="col-sm-2 control-label text-navy">用例总数:</label>
                                     <div class="col-sm-5">
